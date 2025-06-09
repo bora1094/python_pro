@@ -1,1 +1,1 @@
-python
+#python kodları buraya yazılacak
